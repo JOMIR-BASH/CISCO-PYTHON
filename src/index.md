@@ -1,1 +1,1 @@
-Hola mundo quiero un torreja mieluda
+Hola mundo, prueba del curso de Python
