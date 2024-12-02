@@ -4,6 +4,7 @@ imaginario = 2 + 2j  # 2 + 2i imaginario
 
 numero += 2
 print(numero -= 2)
+print(numero)
 print(numero *= 2)
 print(numero /= 2)
 
