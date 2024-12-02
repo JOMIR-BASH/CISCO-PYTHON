@@ -3,10 +3,13 @@ decimal = 1.2  # float
 imaginario = 2 + 2j  # 2 + 2i imaginario
 
 numero += 2
-print(numero -= 2)
 print(numero)
-print(numero *= 2)
-print(numero /= 2)
+numero -= 5
+print(numero)
+numero *= 4
+print(numero)
+numero /= 6
+print(numero)
 
 print("numero", numero)
 print(1+3)
