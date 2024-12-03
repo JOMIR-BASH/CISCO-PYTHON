@@ -1,4 +1,4 @@
-x = input("")
+# x = input("") esta línea se hizo comentario para no generar pausas en la ejecución del código.
 # int() este método transforma el dato a un número
 # str() este método transforma el dato a un string
 # float() este método transforma el dato a un float
