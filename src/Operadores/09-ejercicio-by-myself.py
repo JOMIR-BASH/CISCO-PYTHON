@@ -2,7 +2,7 @@ print("""
 Bienvenidos a la calculadora
 Para salir escribe Salir
 Las operaciones son suma, multi,div y resta""")
-resultado = None
+resultado = ""
 
 while True:
     if not resultado:
